@@ -2,16 +2,11 @@
 
 Top Languages & Git Stats
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mine-kim)](https://github.com/anuraghazra/github-readme-stats)
-[![mine's GitHub stats](https://github-readme-stats.vercel.app/api?username=mine-kim)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.com/mine-kim/github-stats-transparent/blob/output/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/mine-kim/github-stats-transparent/blob/output/generated/overview.svg#gh-light-mode-only)
 
-![](https://github.com/mine-kim/github-stats-transparent/blob/output/generated/overview.svg)
-
-![](https://raw.githubusercontent.com/mine-kim/github-stats-transparent/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mine-kim/github-stats-transparent/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/mine-kim/github-stats-transparent/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mine-kim/github-stats-transparent/master/generated/languages.svg#gh-light-mode-only)
+![](https://github.com/mine-kim/github-stats-transparent/blob/output/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/mine-kim/github-stats-transparent/blob/output/generated/languages.svg#gh-light-mode-only)
 
 Main Stack
 ---
