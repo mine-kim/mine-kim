@@ -1,4 +1,3 @@
-## 안녕하세요 👋
 
 Top Languages & Git Stats
 ---
